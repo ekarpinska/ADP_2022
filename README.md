@@ -16,7 +16,7 @@ Update the table (today you need to fill at least first two columns)
 | Małgorzata Sudoł | [malgorzata-sudol](https://github.com/msudolm) | [EAR](https://github.com/exsto1/Easy-AlphaFold-Report) | Maria Bochenek, Maciej Sikora, Kamil Pawlicki |
 | Maciej Sikora | [maciej-sikora](https://github.com/exsto1) | [EAR](https://github.com/exsto1/Easy-AlphaFold-Report) | Maria Bochenek, Małgorzata Sudoł, Kamil Pawlicki |
 | Pawlicki Kamil | [kamil-pawlicki](https://github.com/MiTRonGTE) | [EAR](https://github.com/exsto1/Easy-AlphaFold-Report) | Maria Bochenek, Małgorzata Sudoł, Maciej Sikora |
-
+| Karpińska Elżbieta | [ekarpinska](https://github.com/ekarpinska) | [FOB](https://github.com/Marcin11111/ADP_Phylogeny_of_birds.git) | Marcin Klimko |
  
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
